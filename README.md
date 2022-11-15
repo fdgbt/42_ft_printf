@@ -1,6 +1,6 @@
 # 42_ft_printf
-Reproducing the original and complete printf function (stdio.h).
-Note that float numbers are not supported but the function has been improved with original bonuses.
+Reproducing the original and complete printf function (stdio.h).  
+Note that float numbers are not supported but the function has been improved with original bonuses.  
 The output is a static library including necessary libft functions: libftprintf.a
 
 ## Install
